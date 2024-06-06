@@ -1,0 +1,15 @@
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\bin\Debug\net6.0\StudentSubmission.exe
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\bin\Debug\net6.0\StudentSubmission.deps.json
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\bin\Debug\net6.0\StudentSubmission.runtimeconfig.json
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\bin\Debug\net6.0\StudentSubmission.dll
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\bin\Debug\net6.0\StudentSubmission.pdb
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\obj\Debug\net6.0\StudentSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\obj\Debug\net6.0\StudentSubmission.AssemblyInfoInputs.cache
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\obj\Debug\net6.0\StudentSubmission.AssemblyInfo.cs
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\obj\Debug\net6.0\StudentSubmission.csproj.CoreCompileInputs.cache
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\obj\Debug\net6.0\StudentSubmission.sourcelink.json
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\obj\Debug\net6.0\StudentSubmission.dll
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\obj\Debug\net6.0\refint\StudentSubmission.dll
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\obj\Debug\net6.0\StudentSubmission.pdb
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\obj\Debug\net6.0\StudentSubmission.genruntimeconfig.cache
+C:\Projects\PMELimited\CSharpBasics\StudentSubmission\obj\Debug\net6.0\ref\StudentSubmission.dll
