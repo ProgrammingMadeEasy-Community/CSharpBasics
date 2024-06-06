@@ -1,0 +1,30 @@
+name: Autograding Tests
+'on':
+- push
+- repository_dispatch
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: Even or Odd Test
+      id: even-or-odd-test
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Even or Odd Test
+        setup-command: ''
+        command: dotnet run --project StudentSubmission
+        timeout: 3
+        max-score: 5
+    - name: Autograding Reporter
+      uses: classroom-resources/autograding-grading-reporter@v1
+      env:
+        EVEN-OR-ODD-TEST_RESULTS: "${{steps.even-or-odd-test.outputs.result}}"
+      with:
+        runners: even-or-odd-test
